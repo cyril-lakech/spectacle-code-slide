@@ -24,7 +24,7 @@ function startOrEnd(index, loc) {
 }
 
 function calculateOpacity(index, loc) {
-  return (loc[0] <= index && loc[1] > index) ? 1 : 0.2;
+  return (loc[0] <= index && loc[1] > index) ? 1 : 0.5;
 }
 
 function getLineNumber(index) {

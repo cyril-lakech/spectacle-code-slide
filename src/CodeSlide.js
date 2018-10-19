@@ -42,7 +42,7 @@ const style = {
   color: defaultColor,
   height: '646px',
   margin: 0,
-  padding: '40% 0',
+  padding: '25% 0',
   whiteSpace: 'pre-wrap',
   wordBreak: 'break-word'
 };
